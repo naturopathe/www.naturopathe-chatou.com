@@ -1,9 +1,5 @@
 # Naturopathes à [Chatou](https://www.chatou.site)
 
-## Rendez-vous en ligne
-
-[Prenez rendez-vous avec un Naturopathe à Chatou avec Doctolib](https://www.doctolib.fr/naturopathe/chatou)
-
 ## La Naturopathie
 
 La Naturopathie est basée sur une philosophie, sur une science et un art de vivre, de penser et de devenir acteur de sa santé à l’aide de moyens naturels.
@@ -20,4 +16,12 @@ La Naturopathie est un ensemble de méthodes de soins visant à renforcer les d�
 La Naturopathie est un ensemble de pratiques visant à aider l’organisme à guérir de lui-même, par des moyens exclusivement naturels. Elle repose sur une théorie selon laquelle la force vitale de l’organisme permet à celui-ci de défendre et de guérir spontanément. Elle consiste donc à renforcer les réactions de défense de l’organisme par diverses mesures d’hygiène (diététique, jeûne, musculation, relaxation, massages, thermalisme, thalassothérapie, etc.) aidées par les seuls agents naturels (plantes, eaux, soleil, air pur, etc.), un traitement médical ne devant intervenir qu’en cas d’urgence.  
 *(Larousse Médical)*
 
+## Rendez-vous
 
+### Prenez rendez-vous en ligne
+
+[Prenez rendez-vous avec un Naturopathe à Chatou avec Doctolib](https://www.doctolib.fr/naturopathe/chatou).
+
+### Prenez rendez-vous par téléphone
+
+Appelez [Magali MANE-BILLIET, Naturopathe diplomée](https://www.manebilliet.fr/) au [07 66 80 71 76](tel:+33766807176).
