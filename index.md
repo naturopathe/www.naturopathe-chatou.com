@@ -24,4 +24,5 @@ La Naturopathie est un ensemble de pratiques visant à aider l’organisme à gu
 
 ### Prenez rendez-vous par téléphone
 
-Appelez [Magali MANE-BILLIET, Naturopathe diplomée](https://www.manebilliet.fr/) au [07 66 80 71 76](tel:+33766807176).
+Appelez le [07 66 80 71 76](tel:+33766807176) pour prendre un rendez-vous avec un naturopathe diplomé :  
+[Magali MANE-BILLIET est naturopathe, diplomée](https://www.manebilliet.fr/) de l'[ISUPNAT](https://isupnat-naturopathie.fr/) et certifiée par la [FENA](http://lafena.fr/). (plus d'informations sur [manebilliet.fr](https://www.manebilliet.fr/))
