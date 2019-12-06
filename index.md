@@ -1,4 +1,4 @@
-# Naturopathes à [Chatou](https://www.chatou.site)
+# Naturopathe à [Chatou](https://www.chatou.site)
 
 ## Rendez-vous
 
